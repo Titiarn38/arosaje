@@ -1,6 +1,7 @@
 # arosaje
 
-A new Flutter project.
+Mise en situation Professionnelle pour la troisième année de Bachelor Concepteur Développeur d'Applications (CDA).
+En cours de développement.
 
 ## Getting Started
 
